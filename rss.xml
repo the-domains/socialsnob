@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[socialsnob]]></title>
-        <description><![CDATA[socialsnob]]></description>
+        <title><![CDATA[SocialSnob.com]]></title>
+        <description><![CDATA[SocialSnob.com]]></description>
         <link>https://thegrid.ai/socialsnob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 00:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 00:20:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/socialsnob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>cameras</p>]]></description>
+            <link>https://thegrid.ai/socialsnob/cameras/index.html</link>
+            <guid isPermaLink="false">5bfd64ba-03ca-40ce-856a-c2f1ed1c5f31</guid>
+            <pubDate>Wed, 14 Oct 2015 00:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DJI Osmo]]></title>
+            <description><![CDATA[<article><h1>DJI Osmo</h1><p>DJI leverages what its learned from making quadcopter cameras to make a fully stabilized lightweight handheld camera. The Osmo comes with a 12MP camera that takes 4K videos, but it's also compatible with the Zenmuse X5 micro four-thirds camera.</p><img src="http://i.ytimg.com/vi/p-7BPt4bJjU/sddefault.jpg"></article>]]></description>
+            <link>http://theawesomer.com/dji-osmo/340225/</link>
+            <guid isPermaLink="false">1d2eca3b-59ae-44c5-ba9a-fcf962c89263</guid>
+            <pubDate>Wed, 14 Oct 2015 00:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.boingboing.net/wp-content/uploads/2015/10/tower-records.jpg">]]></description>
+            <link>https://thegrid.ai/socialsnob/f3b51e70-259b-48a2-87e1-974a93713197/index.html</link>
+            <guid isPermaLink="false">f3b51e70-259b-48a2-87e1-974a93713197</guid>
+            <pubDate>Wed, 14 Oct 2015 00:19:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://recodetech.files.wordpress.com/2015/10/20121013-imac.jpg?quality=80&strip=info&w=640&strip=info">]]></description>
