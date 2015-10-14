@@ -5,8 +5,15 @@
         <description><![CDATA[social snob]]></description>
         <link>https://thegrid.ai/socialsnob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 01:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 01:07:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/socialsnob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Shoot A GoPro With Your Teeth]]></title>
+            <description><![CDATA[<article><h1>How To Shoot A GoPro With Your Teeth</h1><p>Want to capture epic first-person action photos, but don't have a hand free? Pro kayaker Rafa Ortiz has a trick for you. It'll cost you a quarter.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--GtY0e5t2--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1472549075937135537.jpg"></article>]]></description>
+            <link>http://indefinitelywild.gizmodo.com/how-to-shoot-a-gopro-with-your-teeth-1736318665</link>
+            <guid isPermaLink="false">e54f4ff4-b7cf-4a14-9f2f-4b1957d79999</guid>
+            <pubDate>Wed, 14 Oct 2015 01:06:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>the</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/socialsnob/f3b51e70-259b-48a2-87e1-974a93713197/index.html</link>
             <guid isPermaLink="false">f3b51e70-259b-48a2-87e1-974a93713197</guid>
             <pubDate>Wed, 14 Oct 2015 00:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://recodetech.files.wordpress.com/2015/10/20121013-imac.jpg?quality=80&strip=info&w=640&strip=info">]]></description>
-            <link>https://thegrid.ai/socialsnob/41c9aef9-a33d-4b99-aa31-acb9aa2f6fe0/index.html</link>
-            <guid isPermaLink="false">41c9aef9-a33d-4b99-aa31-acb9aa2f6fe0</guid>
-            <pubDate>Tue, 13 Oct 2015 23:30:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
