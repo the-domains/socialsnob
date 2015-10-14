@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SocialSnob.com]]></title>
-        <description><![CDATA[SocialSnob.com]]></description>
+        <title><![CDATA[social snob]]></title>
+        <description><![CDATA[social snob]]></description>
         <link>https://thegrid.ai/socialsnob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 00:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 01:07:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/socialsnob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet Apple's new keyboard, trackpad and mouse video - CNET]]></title>
+            <description><![CDATA[<article><h1>Meet Apple's new keyboard, trackpad and mouse video - CNET</h1><p>These new accessories have rechargeable batteries and slick new designs.</p><img src="http://cnet4.cbsistatic.com/hub/i/2015/10/12/48d5b8ed-56d1-468e-903c-11d035753e1c/imacaccessories.jpg"></article>]]></description>
+            <link>http://www.cnet.com/videos/meet-apples-new-keyboard-trackpad-and-mouse/</link>
+            <guid isPermaLink="false">8f20a71c-b4b4-4479-bd46-500a50078731</guid>
+            <pubDate>Wed, 14 Oct 2015 01:06:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DJI Osmo]]></title>
             <description><![CDATA[<article><h1>DJI Osmo</h1><p>DJI leverages what its learned from making quadcopter cameras to make a fully stabilized lightweight handheld camera. The Osmo comes with a 12MP camera that takes 4K videos, but it's also compatible with the Zenmuse X5 micro four-thirds camera.</p><img src="http://i.ytimg.com/vi/p-7BPt4bJjU/sddefault.jpg"></article>]]></description>
