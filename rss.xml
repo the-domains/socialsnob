@@ -5,8 +5,15 @@
         <description><![CDATA[social snob]]></description>
         <link>https://thegrid.ai/socialsnob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 01:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 01:07:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/socialsnob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>the</p>]]></description>
+            <link>https://thegrid.ai/socialsnob/the/index.html</link>
+            <guid isPermaLink="false">66b4a22f-8445-4c34-844e-0d86748d95c0</guid>
+            <pubDate>Wed, 14 Oct 2015 01:06:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet Apple's new keyboard, trackpad and mouse video - CNET]]></title>
             <description><![CDATA[<article><h1>Meet Apple's new keyboard, trackpad and mouse video - CNET</h1><p>These new accessories have rechargeable batteries and slick new designs.</p><img src="http://cnet4.cbsistatic.com/hub/i/2015/10/12/48d5b8ed-56d1-468e-903c-11d035753e1c/imacaccessories.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/socialsnob/41c9aef9-a33d-4b99-aa31-acb9aa2f6fe0/index.html</link>
             <guid isPermaLink="false">41c9aef9-a33d-4b99-aa31-acb9aa2f6fe0</guid>
             <pubDate>Tue, 13 Oct 2015 23:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/10/13/1444747237755/7f4e41fe-0f37-4fa5-b636-645ac3adb900-620x372.jpeg?w=700&q=85&auto=format&sharp=10&s=7224f5c23a018ec20201386fec8bc6a9">]]></description>
-            <link>https://thegrid.ai/socialsnob/3c60d7c5-782f-444b-a0dd-c998a58b277b/index.html</link>
-            <guid isPermaLink="false">3c60d7c5-782f-444b-a0dd-c998a58b277b</guid>
-            <pubDate>Tue, 13 Oct 2015 23:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
