@@ -1,6 +1,6 @@
 name: socialsnob
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.48108
 title: SocialSnob.com
 cta:
   domain: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#000000'
+    - '#adadad'
+    - '#6e6e6e'
+    - '#4d4d4d'
+    - '#333333'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
