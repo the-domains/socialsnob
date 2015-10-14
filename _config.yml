@@ -1,6 +1,6 @@
 name: socialsnob
 favicon: null
-layout_spectrum: 0.48108
+layout_spectrum: 1
 title: social snob
 cta:
   domain: null
@@ -23,8 +23,8 @@ color:
     - '#333333'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose:
   - name: shares
     item: null
