@@ -12,11 +12,11 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.797491
+  saturation: 0.5537634
   brandStrength: 0
-  lightness: 0.281362
+  lightness: 0.7885305
   brandColors: []
-  rhythmicContrast: 0.7419355
+  rhythmicContrast: 0.2473118
 cta:
   bucket: null
   version: null
@@ -31,5 +31,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5
+typography_spectrum: 0.2526882
 layout_spectrum: 1
